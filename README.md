@@ -17,20 +17,9 @@ The associated paper to this repository can be found here: [Stance Classificatio
 
 | Label  | Description | Example |
 |  :---: |  :---: |:---: |
-| Favor  | Tweets that support one of topics by reacting positively or
-showing positive sentiments toward the topic or expressing
-their agreement. |  “I'm oddly paranoid of people reading my phone over my
-shoulder. Some day I will need to design personally language for
-encryption.” |
-| Against  | Tweets that oppose one of topics by reacting negatively or
-showing negative sentiments toward the topic or expressing
-their disagreement. | “@QuadPiece But why encryption in the first place? It's not
-realistically more secure, it's just slower.” |
-| Neutral | Tweets that ask questions
-OR Tweets that neither support nor oppose any of the topics
-or that do not show any positive or negative sentiments
-toward the topic. |“I'm really torn on this phone encryption issue. #justsaying”|
-
+| Favor  | Tweets that support one of topics by reacting positively or showing positive sentiments toward the topic or expressing their agreement. |  “I'm oddly paranoid of people reading my phone over my shoulder. Some day I will need to design personally language for encryption.” |
+| Against | Tweets that oppose one of topics by reacting negatively or showing negative sentiments toward the topic or expressing their disagreement. | “@QuadPiece But why encryption in the first place? It's not realistically more secure, it's just slower.” |
+| Neutral | Tweets that ask questions OR Tweets that neither support nor oppose any of the topics or that do not show any positive or negative sentiments toward the topic. |“I'm really torn on this phone encryption issue. #justsaying”|
 
 
 
